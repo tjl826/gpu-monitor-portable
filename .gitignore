@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+/.runtime/
+/.disabled
+/.monitor.lock
+/.start.lock
+/.gpu-metrics-*.tmp
+/gpu-monitor.sh
+/gpu_metrics.csv
+/monitor.pid
+/monitor.log
+/monitor.log.[0-9]*
